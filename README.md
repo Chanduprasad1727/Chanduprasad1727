@@ -1,15 +1,138 @@
-# 💫 About Me:
-👋 Hi, I’m @Chanduprasad<br>👀 I’m interested in Artificial Intelligence<br>🌱 I’m currently learning Machine Learning<br>📫 How to reach me mail chanduprasad1727@gmail.com<br>😄 Pronouns: he/him
+<div align="center">
 
+# Hey, I'm Chandu Prasad 👋
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chandu_prasad___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chandu-prasad-m-a-) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chanduprasad1727@gmail.com) 
+### 🚀 AI Builder • Full Stack Developer • Startup Builder
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=chanduprasad1727&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=chanduprasad1727&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=chanduprasad1727&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Building+PocketHost.in;Full+Stack+Developer;AI+Powered+Products;React+%7C+Node.js+%7C+Supabase;Turning+Ideas+Into+Products" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+<p align="center">
+  <a href="https://pockethost.in">
+    <img src="https://img.shields.io/badge/🌐_PocketHost-Visit_Website-2563EB?style=for-the-badge&labelColor=ffffff" />
+  </a>
+  <a href="https://github.com/Chanduprasad1727">
+    <img src="https://img.shields.io/badge/💻_GitHub-Open_Source-111827?style=for-the-badge&labelColor=ffffff" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/⚡_Focus-AI_+_Startups-7C3AED?style=for-the-badge&labelColor=ffffff" />
+  </a>
+</p>
+
+</div>
+
+---
+
+# 💫 About Me
+
+I'm a developer and startup builder from India focused on creating modern AI-powered products and scalable web platforms.
+
+Currently building **PocketHost**, an AI-based platform that helps businesses launch websites instantly with hosting, dashboards, booking systems, and e-commerce support.
+
+I enjoy building:
+- ⚡ Full-stack web applications
+- 🤖 AI-powered tools
+- ☁️ Cloud-hosted platforms
+- 📱 Mobile-first products
+- 🚀 Startup MVPs
+
+---
+
+# 🚀 Current Project
+
+## ☁️ PocketHost
+
+> AI-powered website & hosting platform for modern businesses.
+
+### Features
+- AI Website Generation
+- Store & Booking Templates
+- Razorpay Integration
+- Admin Dashboards
+- Supabase Backend
+- Hosting Infrastructure
+- Subdomain Deployments
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+## Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## Other Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white)
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Chanduprasad1727&show_icons=true&theme=default&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Chanduprasad1727&theme=default&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chanduprasad1727&layout=compact&hide_border=true)
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced System Design
+- AI Product Engineering
+- Scalable Backend Architectures
+- SaaS Infrastructure
+- Cloud Deployments
+
+---
+
+# 💡 Philosophy
+
+```txt
+Build fast.
+Learn continuously.
+Stay obsessed with execution.
+```
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+### 🌐 Website
+https://pockethost.in
+
+### 💻 GitHub
+https://github.com/Chanduprasad1727
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ “Turning ideas into scalable digital products.”
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:2563EB&height=120&section=footer"/>
+
+</div>
