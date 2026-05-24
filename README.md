@@ -4,7 +4,7 @@
 
 ### 🚀 AI Builder • Full Stack Developer • Startup Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Building+PocketHost.in;Full+Stack+Developer;AI+Powered+Products;React+%7C+Node.js+%7C+Supabase;Turning+Ideas+Into+Products" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Building+PocketHost.in;Full+Stack+Developer;AI+Powered+Products;React+%7C+Node.js+%7C+Supabase;Turning+Ideas+Into+Products;AI+Engineer" />
 
 <br/>
 
